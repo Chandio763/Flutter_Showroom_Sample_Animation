@@ -2,7 +2,7 @@
 
 A Flutter Sample project For Showroom UI.
 
-## Getting Started
+<img src='https://github.com/Chandio763/Flutter_Showroom_Sample_Animation/blob/master/assets/car1.png' />
 
 This project is a practice project with just sample Code without Finishing.
 
